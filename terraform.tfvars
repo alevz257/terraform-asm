@@ -1,4 +1,5 @@
-project_id    = "alevz-demo-1"
-region        = "asia-southeast2"
-zone          = "asia-southeast2-a"
-private_cidr  = "10.100.0.0/28"
+project_id    = "<project id>"
+region        = "<region>"
+zone          = "<zone>"
+private_cidr  = "<cidr>" #will be used for GKE Master private CIDR 
+ 
